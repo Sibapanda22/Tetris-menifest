@@ -1,7 +1,6 @@
 ---
 apiVersion: apps/v1
 kind: Deployment
-namespace: Tetris
 metadata:
   name: tetris
 spec:
