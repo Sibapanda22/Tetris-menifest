@@ -8,6 +8,7 @@ spec:
   selector:
     matchLabels:
       app: tetris
+  template:
     metadata:
       labels:
         app: tetris
